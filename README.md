@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **React, Django, JavaScript, Python, Html, Css**
+- 💬 Ask me about **React, Django, JavaScript, Python, Html, Css, RubyonRails**
 
 - 📫 How to reach me **vinitchahal1241@gmail.com**
 
