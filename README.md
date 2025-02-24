@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinit Choudhary</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web developer from India,Jammu and Kashmir</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinitchahal" alt="vinitchahal" /></a> </p>
 
