@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Ecom-Website**<br><br>- 🌱 I’m currently learning **Full Stack Development**<br><br>- 👯 I’m looking to collaborate on **Real World Project**<br><br>- 👨‍💻 All of my projects are available at [github](github)<br><br>- 💬 Ask me about **React, Django, JavaScript, Python, Html, Css, RubyonRails**<br><br>- 📫 How to reach me **vinitchahal1241@gmail.com**<br><br>- ⚡ Fun fact **I think I am so Funny**
+- 🔭 I’m currently working on **Ecom-Website**<br><br>- 🌱 I’m currently learning **Full Stack Development**<br><br>- 👯 I’m looking to collaborate on **Real World Project**<br><br>- 💬 Ask me about **React, Django, JavaScript, Python, Html, Css, RubyonRails**<br><br>- 📫 How to reach me **vinitchahal1241@gmail.com**<br><br>- ⚡ Fun fact **I think I am so Funny**
 
 
 ## 🌐 Socials:
