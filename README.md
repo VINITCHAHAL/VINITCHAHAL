@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Ecom-Website**<br><br>- 🌱 I’m currently learning **Full Stack Development**<br><br>- 👯 I’m looking to collaborate on **Real World Project**<br><br>- 💬 Ask me about **Tailwind, React, Django, JavaScript, Python, HTML5, CSS3, RubyonRails**<br><br>- 📫 How to reach me **vinitchahal1241@gmail.com**<br><br>- 
+🔭 I’m currently working on **Ecom-Website**<br><br>- 🌱 I’m currently learning **Full Stack Development**<br><br>- 👯 I’m looking to collaborate on **Real World Project**<br><br>- 💬 Ask me about **Tailwind, React, Django, JavaScript, Python, HTML5, CSS3, RubyonRails**<br><br>- 📫 How to reach me **vinitchahal1241@gmail.com**<br><br>- 
 
 
 ## 🌐 Socials:
